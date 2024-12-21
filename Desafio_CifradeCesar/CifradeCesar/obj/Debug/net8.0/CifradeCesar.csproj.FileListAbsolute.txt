@@ -1,0 +1,43 @@
+C:\Users\diego.fernandes\Documents\Curso Csharp\CifradeCesar\obj\Debug\net8.0\CifradeCesar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego.fernandes\Documents\Curso Csharp\CifradeCesar\obj\Debug\net8.0\CifradeCesar.AssemblyInfoInputs.cache
+C:\Users\diego.fernandes\Documents\Curso Csharp\CifradeCesar\obj\Debug\net8.0\CifradeCesar.AssemblyInfo.cs
+C:\Users\diego.fernandes\Documents\Curso Csharp\CifradeCesar\obj\Debug\net8.0\CifradeCesar.csproj.CoreCompileInputs.cache
+C:\Users\diego.fernandes\Documents\Curso Csharp\CifradeCesar\bin\Debug\net8.0\CifradeCesar.exe
+C:\Users\diego.fernandes\Documents\Curso Csharp\CifradeCesar\bin\Debug\net8.0\CifradeCesar.deps.json
+C:\Users\diego.fernandes\Documents\Curso Csharp\CifradeCesar\bin\Debug\net8.0\CifradeCesar.runtimeconfig.json
+C:\Users\diego.fernandes\Documents\Curso Csharp\CifradeCesar\bin\Debug\net8.0\CifradeCesar.dll
+C:\Users\diego.fernandes\Documents\Curso Csharp\CifradeCesar\bin\Debug\net8.0\CifradeCesar.pdb
+C:\Users\diego.fernandes\Documents\Curso Csharp\CifradeCesar\obj\Debug\net8.0\CifradeCesar.dll
+C:\Users\diego.fernandes\Documents\Curso Csharp\CifradeCesar\obj\Debug\net8.0\refint\CifradeCesar.dll
+C:\Users\diego.fernandes\Documents\Curso Csharp\CifradeCesar\obj\Debug\net8.0\CifradeCesar.pdb
+C:\Users\diego.fernandes\Documents\Curso Csharp\CifradeCesar\obj\Debug\net8.0\CifradeCesar.genruntimeconfig.cache
+C:\Users\diego.fernandes\Documents\Curso Csharp\CifradeCesar\obj\Debug\net8.0\ref\CifradeCesar.dll
+C:\Users\diego.fernandes\Documents\Desafio\CifradeCesar\bin\Debug\net8.0\CifradeCesar.exe
+C:\Users\diego.fernandes\Documents\Desafio\CifradeCesar\bin\Debug\net8.0\CifradeCesar.deps.json
+C:\Users\diego.fernandes\Documents\Desafio\CifradeCesar\bin\Debug\net8.0\CifradeCesar.runtimeconfig.json
+C:\Users\diego.fernandes\Documents\Desafio\CifradeCesar\bin\Debug\net8.0\CifradeCesar.dll
+C:\Users\diego.fernandes\Documents\Desafio\CifradeCesar\bin\Debug\net8.0\CifradeCesar.pdb
+C:\Users\diego.fernandes\Documents\Desafio\CifradeCesar\obj\Debug\net8.0\CifradeCesar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego.fernandes\Documents\Desafio\CifradeCesar\obj\Debug\net8.0\CifradeCesar.AssemblyInfoInputs.cache
+C:\Users\diego.fernandes\Documents\Desafio\CifradeCesar\obj\Debug\net8.0\CifradeCesar.AssemblyInfo.cs
+C:\Users\diego.fernandes\Documents\Desafio\CifradeCesar\obj\Debug\net8.0\CifradeCesar.csproj.CoreCompileInputs.cache
+C:\Users\diego.fernandes\Documents\Desafio\CifradeCesar\obj\Debug\net8.0\CifradeCesar.dll
+C:\Users\diego.fernandes\Documents\Desafio\CifradeCesar\obj\Debug\net8.0\refint\CifradeCesar.dll
+C:\Users\diego.fernandes\Documents\Desafio\CifradeCesar\obj\Debug\net8.0\CifradeCesar.pdb
+C:\Users\diego.fernandes\Documents\Desafio\CifradeCesar\obj\Debug\net8.0\CifradeCesar.genruntimeconfig.cache
+C:\Users\diego.fernandes\Documents\Desafio\CifradeCesar\obj\Debug\net8.0\ref\CifradeCesar.dll
+C:\Users\diego.fernandes\Documents\Desafio_CifradeCesar\CifradeCesar\bin\Debug\net8.0\CifradeCesar.exe
+C:\Users\diego.fernandes\Documents\Desafio_CifradeCesar\CifradeCesar\bin\Debug\net8.0\CifradeCesar.deps.json
+C:\Users\diego.fernandes\Documents\Desafio_CifradeCesar\CifradeCesar\bin\Debug\net8.0\CifradeCesar.runtimeconfig.json
+C:\Users\diego.fernandes\Documents\Desafio_CifradeCesar\CifradeCesar\bin\Debug\net8.0\CifradeCesar.dll
+C:\Users\diego.fernandes\Documents\Desafio_CifradeCesar\CifradeCesar\bin\Debug\net8.0\CifradeCesar.pdb
+C:\Users\diego.fernandes\Documents\Desafio_CifradeCesar\CifradeCesar\obj\Debug\net8.0\CifradeCesar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego.fernandes\Documents\Desafio_CifradeCesar\CifradeCesar\obj\Debug\net8.0\CifradeCesar.AssemblyInfoInputs.cache
+C:\Users\diego.fernandes\Documents\Desafio_CifradeCesar\CifradeCesar\obj\Debug\net8.0\CifradeCesar.AssemblyInfo.cs
+C:\Users\diego.fernandes\Documents\Desafio_CifradeCesar\CifradeCesar\obj\Debug\net8.0\CifradeCesar.csproj.CoreCompileInputs.cache
+C:\Users\diego.fernandes\Documents\Desafio_CifradeCesar\CifradeCesar\obj\Debug\net8.0\CifradeCesar.sourcelink.json
+C:\Users\diego.fernandes\Documents\Desafio_CifradeCesar\CifradeCesar\obj\Debug\net8.0\CifradeCesar.dll
+C:\Users\diego.fernandes\Documents\Desafio_CifradeCesar\CifradeCesar\obj\Debug\net8.0\refint\CifradeCesar.dll
+C:\Users\diego.fernandes\Documents\Desafio_CifradeCesar\CifradeCesar\obj\Debug\net8.0\CifradeCesar.pdb
+C:\Users\diego.fernandes\Documents\Desafio_CifradeCesar\CifradeCesar\obj\Debug\net8.0\CifradeCesar.genruntimeconfig.cache
+C:\Users\diego.fernandes\Documents\Desafio_CifradeCesar\CifradeCesar\obj\Debug\net8.0\ref\CifradeCesar.dll
